@@ -1,0 +1,16 @@
+{ 
+    "user": "nodejs",
+    "password": "sup",
+    "database": "Norms",
+    "server": "DESKTOP-0QF8N6T",
+    "pool": {
+        "max": 10,
+        "min": 0,
+        "idleTimeoutMillis": 5000
+    },
+    "options": {
+        "encrypt": true, 
+        "trustServerCertificate": true 
+    }
+}
+

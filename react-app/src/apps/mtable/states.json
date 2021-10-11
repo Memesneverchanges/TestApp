@@ -1,0 +1,12 @@
+{
+"tnames" : ["Eq_model", "parameter", "process", "target_type","target_trans"],
+ "reducer" : {
+    "data": [],
+    "changes": [],
+    "lookupdata":[],
+    "currentdb":{},
+    "editRowKey": null,
+    "isLoading": false
+  },
+"URL":"http://localhost:5000"
+}
